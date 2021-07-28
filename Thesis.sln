@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thesis", "Thesis\Thesis.csproj", "{DF78C2F9-03E9-4704-9EC9-22E7E900AEAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{0D8C6120-60D4-4473-BE7A-467F40FDE5B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeMinimumQuery", "RangeMinimumQuery\RangeMinimumQuery.csproj", "{8CBDBA27-D4B5-459A-BEA7-B4E9E8527A0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.csproj", "{4731B3C1-2331-4231-88FD-5F38176C3974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTreedepthSolver", "BasicTreedepthSolver\BasicTreedepthSolver.csproj", "{047A06E0-F350-4CDE-80DC-0633F79D2185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceTests", "PerformanceTests\PerformanceTests.csproj", "{089538EB-B526-4B1F-B921-4F7E4A77540F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF78C2F9-03E9-4704-9EC9-22E7E900AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF78C2F9-03E9-4704-9EC9-22E7E900AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF78C2F9-03E9-4704-9EC9-22E7E900AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF78C2F9-03E9-4704-9EC9-22E7E900AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8C6120-60D4-4473-BE7A-467F40FDE5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8C6120-60D4-4473-BE7A-467F40FDE5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8C6120-60D4-4473-BE7A-467F40FDE5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8C6120-60D4-4473-BE7A-467F40FDE5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBDBA27-D4B5-459A-BEA7-B4E9E8527A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBDBA27-D4B5-459A-BEA7-B4E9E8527A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBDBA27-D4B5-459A-BEA7-B4E9E8527A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBDBA27-D4B5-459A-BEA7-B4E9E8527A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4731B3C1-2331-4231-88FD-5F38176C3974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4731B3C1-2331-4231-88FD-5F38176C3974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4731B3C1-2331-4231-88FD-5F38176C3974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4731B3C1-2331-4231-88FD-5F38176C3974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047A06E0-F350-4CDE-80DC-0633F79D2185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047A06E0-F350-4CDE-80DC-0633F79D2185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047A06E0-F350-4CDE-80DC-0633F79D2185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047A06E0-F350-4CDE-80DC-0633F79D2185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089538EB-B526-4B1F-B921-4F7E4A77540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089538EB-B526-4B1F-B921-4F7E4A77540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089538EB-B526-4B1F-B921-4F7E4A77540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089538EB-B526-4B1F-B921-4F7E4A77540F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {719443C4-2382-4E4F-9FBE-BE0E6D348529}
+	EndGlobalSection
+EndGlobal
